@@ -1,0 +1,26 @@
+package arrayDemo;
+
+public class main {
+
+	public static void main(String[] args) {
+		String ogrenci1 = "Aslı";
+		String ogrenci2 = "Engin";
+		String ogrenci3 = "Gökhan";
+		String ogrenci4 = "Ayşe";
+		
+		System.out.println(ogrenci1);
+		System.out.println(ogrenci2);
+		System.out.println(ogrenci3);
+		System.out.println(ogrenci4);
+		
+		String[] ogrenciler = new String[3];
+		ogrenciler[0] = "Aslı";
+		ogrenciler[0] = "Engin";
+		ogrenciler[0] = "Gökhan";
+		ogrenciler[0] = "Ayşe";
+		
+		for(int=0;i<ogrenciler.length;i++)
+			System.out.println(ogrenciler[i]);
+	}
+
+}

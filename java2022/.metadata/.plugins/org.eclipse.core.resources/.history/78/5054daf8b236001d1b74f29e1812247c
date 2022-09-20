@@ -1,0 +1,18 @@
+package intro;
+
+public class main {
+
+	public static void main(String[] args) {
+		System.out.println("hello java!!");
+		
+		//değişken isimlendirme camelCase şeklindedir
+		String ortaMetin = "İlginizi çekebilir!";
+		String altMetin = "Vade süresi";
+		
+		System.out.println(ortaMetin);
+		
+		
+
+	}
+
+}

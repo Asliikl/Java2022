@@ -1,0 +1,14 @@
+package veriables;
+
+public class main {
+
+	public static void main(String[] args) {
+		int ogrenciSayisi =12;
+		
+		System.out.println("Öğrenci sayım : "+ ogrenciSayisi);
+		System.out.println("Öğrenci sayım : "+ ogrenciSayisi);
+		System.out.println("Öğrenci sayım : "+ ogrenciSayisi);
+		System.out.println("Öğrenci sayım : "+ ogrenciSayisi);
+	}
+
+}
